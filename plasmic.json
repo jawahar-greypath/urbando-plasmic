@@ -1,0 +1,293 @@
+{
+  "platform": "react",
+  "code": {
+    "lang": "ts",
+    "scheme": "blackbox",
+    "reactRuntime": "classic"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.css"
+  },
+  "images": {
+    "scheme": "inlined",
+    "publicDir": "../public",
+    "publicUrlPrefix": "/static/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "src/components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "oJecnJ81BhwEF2HCPBk4BS",
+      "projectApiToken": "423Bd5faMJ1vtfFZ1aCl2cadPDIy8FVJr6IvpnBJqbunKwEd00vyhbwTj9DlRhcggZhhUn75wJLHxpiQ3TeQ",
+      "projectName": "urbando",
+      "version": "latest",
+      "cssFilePath": "plasmic/urbando/plasmic.module.css",
+      "components": [
+        {
+          "id": "e_STtGFEnS3q",
+          "name": "Homepage",
+          "type": "managed",
+          "projectId": "oJecnJ81BhwEF2HCPBk4BS",
+          "renderModuleFilePath": "plasmic/urbando/PlasmicHomepage.tsx",
+          "importSpec": {
+            "modulePath": "Homepage.tsx"
+          },
+          "cssFilePath": "plasmic/urbando/PlasmicHomepage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page",
+          "path": "/"
+        }
+      ],
+      "icons": [
+        {
+          "id": "EnY3Qg_rdw9R",
+          "name": "Group7Icon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon__Group7.tsx"
+        },
+        {
+          "id": "sDzG_nJXemv8",
+          "name": "VectorIcon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon__Vector.tsx"
+        },
+        {
+          "id": "t58R0GyLyIv5",
+          "name": "GroupIcon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon__Group.tsx"
+        },
+        {
+          "id": "qtDxqHwMJuMr",
+          "name": "Group2Icon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon__Group2.tsx"
+        },
+        {
+          "id": "OC6z_gLJ2Cr3",
+          "name": "Group3Icon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon__Group3.tsx"
+        },
+        {
+          "id": "nsl5PTl1SqUB",
+          "name": "Group4Icon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon__Group4.tsx"
+        },
+        {
+          "id": "paZCmyJOHSrh",
+          "name": "Group5Icon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon__Group5.tsx"
+        },
+        {
+          "id": "U-zaD6qNqB3l",
+          "name": "Group6Icon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon__Group6.tsx"
+        },
+        {
+          "id": "dtyRamjn469O",
+          "name": "Group8Icon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon__Group8.tsx"
+        },
+        {
+          "id": "ENMyKzw175eD",
+          "name": "Group9Icon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon__Group9.tsx"
+        },
+        {
+          "id": "Pf9Iu3ycEFJv",
+          "name": "Group10Icon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon__Group10.tsx"
+        },
+        {
+          "id": "NCoLpZcNc8Gq",
+          "name": "_010HallwayIcon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon___010Hallway.tsx"
+        },
+        {
+          "id": "1VjTVq0viXbk",
+          "name": "Svgid2Icon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon__Svgid2.tsx"
+        },
+        {
+          "id": "93UOH8w5UuJc",
+          "name": "Group11Icon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon__Group11.tsx"
+        },
+        {
+          "id": "MYxUdIbqt8R5",
+          "name": "Group12Icon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon__Group12.tsx"
+        },
+        {
+          "id": "3o76_SHvzYZf",
+          "name": "Group13Icon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon__Group13.tsx"
+        },
+        {
+          "id": "0gixYyGSktr_",
+          "name": "_014OpeningWindowIcon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon___014OpeningWindow.tsx"
+        },
+        {
+          "id": "OViMWosIQcTp",
+          "name": "LayerX00201Icon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon__LayerX00201.tsx"
+        },
+        {
+          "id": "Bgx9AaIx4aOO",
+          "name": "Group14Icon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon__Group14.tsx"
+        },
+        {
+          "id": "lWz49O1zFc8y",
+          "name": "Vector23Icon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon__Vector23.tsx"
+        },
+        {
+          "id": "j1td_uk6FULT",
+          "name": "IconCircleFacebookIcon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon__IconCircleFacebook.tsx"
+        },
+        {
+          "id": "l7NKS3VRB9dq",
+          "name": "Group15Icon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon__Group15.tsx"
+        },
+        {
+          "id": "cbw-H28haMGf",
+          "name": "IconCircleLinkedinIcon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon__IconCircleLinkedin.tsx"
+        },
+        {
+          "id": "rx4LtTWY1CsM",
+          "name": "Group17Icon",
+          "moduleFilePath": "plasmic/urbando/icons/PlasmicIcon__Group17.tsx"
+        }
+      ],
+      "images": [
+        {
+          "id": "7YOEwZRuT-eG",
+          "name": "Rectangle 3",
+          "filePath": "plasmic/urbando/images/rectangle3.jpeg"
+        },
+        {
+          "id": "klMqfEiCBXvt",
+          "name": "Bg",
+          "filePath": "plasmic/urbando/images/bg.jpeg"
+        },
+        {
+          "id": "_PPumLW2NGT3",
+          "name": "Frame 405",
+          "filePath": "plasmic/urbando/images/frame405.jpeg"
+        },
+        {
+          "id": "JkERMCx6G4ad",
+          "name": "Frame 406",
+          "filePath": "plasmic/urbando/images/frame406.jpeg"
+        },
+        {
+          "id": "K43fWmy6yOla",
+          "name": "Frame 407",
+          "filePath": "plasmic/urbando/images/frame407.jpeg"
+        },
+        {
+          "id": "ewEopE3SHoNp",
+          "name": "Frame 408",
+          "filePath": "plasmic/urbando/images/frame408.jpeg"
+        },
+        {
+          "id": "CRZUHUHAX-Fa",
+          "name": "IMAGE",
+          "filePath": "plasmic/urbando/images/image.jpeg"
+        },
+        {
+          "id": "euOr2c_9mWzR",
+          "name": "IMAGE 2",
+          "filePath": "plasmic/urbando/images/image2.jpeg"
+        },
+        {
+          "id": "8aVAG7OKkJIq",
+          "name": "IMAGE 3",
+          "filePath": "plasmic/urbando/images/image3.jpeg"
+        },
+        {
+          "id": "u6I9LkOwpgDF",
+          "name": "Frame",
+          "filePath": "plasmic/urbando/images/frame.svg"
+        },
+        {
+          "id": "0LQevPSQJCPD",
+          "name": "Frame 2",
+          "filePath": "plasmic/urbando/images/frame2.svg"
+        },
+        {
+          "id": "UwaE39e6o_yU",
+          "name": "Rectangle 15",
+          "filePath": "plasmic/urbando/images/rectangle15.svg"
+        },
+        {
+          "id": "0zATzVXbj2tR",
+          "name": "Rectangle 16",
+          "filePath": "plasmic/urbando/images/rectangle16.svg"
+        },
+        {
+          "id": "e24Uf4m3IpGz",
+          "name": "Rectangle 17",
+          "filePath": "plasmic/urbando/images/rectangle17.svg"
+        },
+        {
+          "id": "kXSmWxDKPI2M",
+          "name": "Frame 3",
+          "filePath": "plasmic/urbando/images/frame3.svg"
+        },
+        {
+          "id": "_zaIj7zaLvbC",
+          "name": "Layer 1",
+          "filePath": "plasmic/urbando/images/layer1.svg"
+        },
+        {
+          "id": "gJG0cucXZHWB",
+          "name": "Layer 2",
+          "filePath": "plasmic/urbando/images/layer2.svg"
+        },
+        {
+          "id": "k-O-WU_lF5xG",
+          "name": "Group 16",
+          "filePath": "plasmic/urbando/images/group16.svg"
+        }
+      ],
+      "indirect": false,
+      "globalContextsFilePath": "",
+      "splitsProviderFilePath": "",
+      "codeComponents": [
+        {
+          "id": "gIbSTdj9n6fI",
+          "name": "PlasmicHead",
+          "displayName": "hostless-plasmic-head",
+          "componentImportPath": "@plasmicapp/react-web"
+        },
+        {
+          "id": "KXZvG4DnPl8M",
+          "name": "Fetcher",
+          "displayName": "plasmic-data-source-fetcher",
+          "componentImportPath": "@plasmicapp/react-web/lib/data-sources"
+        }
+      ],
+      "customFunctions": []
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "tANRDy6E_it_",
+        "name": "Screen",
+        "projectId": "oJecnJ81BhwEF2HCPBk4BS",
+        "contextFilePath": "plasmic/urbando/PlasmicGlobalVariant__Screen.tsx"
+      }
+    ]
+  },
+  "wrapPagesWithGlobalContexts": true,
+  "cliVersion": "0.1.337",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.337/dist/plasmic.schema.json"
+}
